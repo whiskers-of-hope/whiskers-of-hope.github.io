@@ -3,6 +3,11 @@ html, body {
   font-size: 16px;
   line-height: 1.25em;
   color: #222;
+  position: relative;
+}
+
+body {
+  overflow-x: hidden;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -35,6 +40,8 @@ nav ul, header, section#body {
 nav {
   background: url('/images/nylon.png') repeat;
   padding: 6px 0;
+  position: relative;
+  z-index: 100;
 }
 
 nav #collar {
@@ -77,7 +84,6 @@ header h1 {
 
 footer {
   margin-top: 96px;
-  margin-bottom: 12px;
   text-align: center;
 }
 
@@ -86,4 +92,54 @@ footer, footer a {
   line-height: 1em;
   color: #555;
   text-decoration: none;
+}
+
+#photos {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  z-index: 0;
+  width: 1480px;
+  margin-left: -740px;
+  overflow: hidden;
+  margin-top: -16000px;
+}
+
+#photos img {
+  width: 400px;
+  display: block;
+}
+
+#photos .left, #photos .right {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+}
+
+#photos .left {
+  left: 0;
+}
+
+#photos .right {
+  left: 1080px;
+}
+
+
+#photos {
+  -moz-animation-duration: 300s;
+  -moz-animation-name: slidedown;
+  -moz-animation-timing-function: linear;
+  -webkit-animation-duration: 300s;
+  -webkit-animation-name: slidedown;
+  -webkit-animation-timing-function: linear;
+}
+
+@-moz-keyframes slidedown {
+  from { margin-top: 0px; }
+  to   { margin-top: -16000px; }
+}
+@-webkit-keyframes slidedown {
+  from { margin-top: 0px; }
+  to   { margin-top: -16000px; }
 }

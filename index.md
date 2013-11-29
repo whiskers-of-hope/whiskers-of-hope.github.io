@@ -3,17 +3,11 @@ layout: default
 title: Whiskers of Hope
 ---
 
-## Description
-
 Whiskers of Hope, Inc. is a non-profit no-kill adoption organization for cats and kittens. We are an all-volunteer 501(c)3 not-for-profit charitable corporation. We operate a no-kill "virtual shelter" with all our cats in the care of foster homes.
 
 Whiskers of Hope needs your help and is always looking for volunteers that would like to foster homeless cats. Fostering can be a very rewarding experience! For more information conact our Adoption Coodinator at: 781.648.4095, or e-mail whiskers@whiskersofhope.org.
 
 We rely on the support of caring individuals to feed and get medical care of our cats. All donations are greatly appreciated and are tax deductible. Donations can be sent to our PO Box.
-
-## Upcoming Events
-
-Pull from facebook
 
 ## Adopt a Cat or Kitten
 
