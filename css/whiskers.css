@@ -38,7 +38,7 @@ nav ul, header, section#body {
 }
 
 nav {
-  background: url('images/nylon.png') repeat;
+  background: url('../images/nylon.png') repeat;
   padding: 6px 0;
   position: relative;
   z-index: 100;
