@@ -83,8 +83,8 @@ header h1 {
 }
 
 footer {
-  margin-top: 96px;
   text-align: center;
+  padding: 96px 0 48px;
 }
 
 footer, footer a {
