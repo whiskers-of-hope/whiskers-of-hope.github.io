@@ -50,6 +50,10 @@ nav ul li {
   margin-right: 1em;
 }
 
+nav ul li:last-child {
+  margin-right: 0;
+}
+
 nav a {
   text-decoration: none;
   font-size: 12px;

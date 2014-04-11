@@ -3,6 +3,15 @@ layout: default
 title: Whiskers of Hope
 ---
 
+## Adopt our cat of the month: Pounce!
+
+![Pounce](/images/pounce.jpg)
+
+Pounce is a very pretty young male cat with the softest fur in the world. He loves to be snuggled and brushed and will purr just because he's around you! He's a little shy but once he decided you're his friend he's always excited to see you. Pounce used to live with a dog and a baby, so now he's looking for somewhere a bit ... quieter!
+
+
+## About
+
 Whiskers of Hope, Inc. is a non-profit no-kill adoption organization for cats and kittens. We are an all-volunteer 501(c)3 not-for-profit charitable corporation. We operate a no-kill "virtual shelter" with all our cats in the care of foster homes.
 
 Whiskers of Hope needs your help and is always looking for volunteers that would like to foster homeless cats. Fostering can be a very rewarding experience! For more information contact our Adoption Coodinator at: 781.648.4095, or e-mail whiskers@whiskersofhope.org.
