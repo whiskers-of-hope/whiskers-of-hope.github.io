@@ -43,3 +43,13 @@ Please note that kittens (under 9 months of age) are only adopted in pairs unles
 [Catnip](http://www.tuftscatnip.com/) - Newsletter from Cummings School of Veterinary Medicine. Includes links to current articles, article archives, and book store.
 
 [The Daily Cat from Fox TV 25 Boston](http://cats.myfoxboston.com/home.html) - Articles, videos, quizzes, etc. on cat health, nutrition, behavior, and happiness.
+
+## Feline Immunodeficiency Virus (FIV)- What is it?
+
+* FIV causes decreased immune function and increased susceptibility to infections and diseases in cats
+* Humans are NOT at risk for FIV infection
+* Transmitted mainly through bite wounds, not through normal social activities such as grooming
+* Non-FIV infected cats in the same household are at low risk for infection but it is recommended that FIV+ cats do not join household with FIV- cats or are kept separate
+* FIV+ cats should be spayed/neutered and kept indoors to prevent infection to other cats
+* There is no cure for FIV, but infected cats may live many years symptom-free
+* Regular vet check-ups, a nutritionally balanced diet, and a close watch for symptoms of illness with prompt treatment help to increase the FIV+ cat’s quality and longevity of life
