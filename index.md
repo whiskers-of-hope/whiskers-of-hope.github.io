@@ -18,6 +18,10 @@ Whiskers of Hope needs your help and is always looking for volunteers that would
 
 We rely on the support of caring individuals to feed and get medical care of our cats. All donations are greatly appreciated and are tax deductible. Donations can be sent to our PO Box.
 
+## Upcoming Events
+
+<iframe style="border-width:0" width="640" height="480" frameborder="0" scrolling="no" src="https://www.google.com/calendar/embed?src=whiskersofhope.org_efphc8b7vtbl7duddn89fc9tq0%40group.calendar.google.com&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=480&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;ctz=America%2FNew_York"></iframe>
+
 ## Adopt a Cat or Kitten
 
 All cats and kittens for adoption have been examined by a veterinarian, spayed or neutered, vaccinated against rabies and distemper (FVRCP), dewormed, treated to prevent fleas and mites, and tested for feline leukemia and feline immunodeficiency virus (FeLK/FIV).
