@@ -7,7 +7,7 @@ title: Whiskers of Hope
 
 ![Pounce](/images/pounce.jpg)
 
-Pounce is a very pretty young male cat with the softest fur in the world. He loves to be snuggled and brushed and will purr just because he's around you! He's a little shy but once he decided you're his friend he's always excited to see you. Pounce used to live with a dog and a baby, so now he's looking for somewhere a bit ... quieter!
+Pounce is a very pretty young male cat with the softest fur in the world. He loves to be snuggled and brushed and will purr just because he's around you! He's a little shy but once he decided you're his friend he's always excited to see you. He loves to chase his toys and jump around, he's really fast!
 
 
 ## About
