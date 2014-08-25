@@ -26,7 +26,11 @@ We rely on the support of caring individuals to feed and get medical care of our
 
 All cats and kittens for adoption have been examined by a veterinarian, spayed or neutered, vaccinated against rabies and distemper (FVRCP), dewormed, treated to prevent fleas and mites, and tested for feline leukemia and feline immunodeficiency virus (FeLK/FIV).
 
-We ask for a contribution of $125 for one cat or $200 for two cats as an adoption fee to recover the cost of this care.
+Our adoption fees depend on the age of the cat, and we also offer a discount if you adopt two cats at once:
+
+* Kittens (up to 6 months) $150, 2 for $250
+* Cats (6 months- 6 years) $125, 2 for 200
+* Older cats (6+ years) $100
 
 ## The Adoption Process
 
