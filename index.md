@@ -29,7 +29,7 @@ All cats and kittens for adoption have been examined by a veterinarian, spayed o
 Our adoption fees depend on the age of the cat, and we also offer a discount if you adopt two cats at once:
 
 * Kittens (up to 6 months) $150, 2 for $250
-* Cats (6 months- 6 years) $125, 2 for 200
+* Cats (6 months- 6 years) $125, 2 for $200
 * Older cats (6+ years) $100
 
 ## The Adoption Process
