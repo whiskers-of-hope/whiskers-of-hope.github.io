@@ -3,12 +3,11 @@ layout: default
 title: Whiskers of Hope
 ---
 
-## Adopt our cat of the month: Pounce!
+## Adopt our cat of the month: Gus!
 
-![Pounce](/images/pounce.jpg)
+![Gus](/images/gus.jpg)
 
-Pounce is a very pretty young male cat with the softest fur in the world. He loves to be snuggled and brushed and will purr just because he's around you! He's a little shy but once he decided you're his friend he's always excited to see you. He loves to chase his toys and jump around, he's really fast!
-
+Meet Gus!  Gus has not been having the best year - his owner passed away recently, and now Gus is looking for a new home.  He is about 3 years old and we believe he is at least part Maine Coon.  Gus is very friendly towards people, and can run hot and cold towards other cats.  Sometimes when submissive cats in his foster home run away from him, he takes this as an invitation to play chase!  We are not sure how he is with children, his previous household was adults only.  However he is friendly so we believe well mannered children we suit him fine.  His beautiful coat requires brushing, which he does not seem to mind.
 
 ## About
 
