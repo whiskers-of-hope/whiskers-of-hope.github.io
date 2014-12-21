@@ -9,6 +9,10 @@ title: Whiskers of Hope
 
 Meet Gus!  Gus has not been having the best year - his owner passed away recently, and now Gus is looking for a new home.  He is about 3 years old and we believe he is at least part Maine Coon.  Gus is very friendly towards people, and can run hot and cold towards other cats.  Sometimes when submissive cats in his foster home run away from him, he takes this as an invitation to play chase!  We are not sure how he is with children, his previous household was adults only.  However he is friendly so we believe well mannered children we suit him fine.  His beautiful coat requires brushing, which he does not seem to mind.
 
+## Pizza Night at Flatbread Pizza to Benefit Whiskers of Hope!
+
+Kitties & Pizza!  Flatbread Pizza in Bedford, MA is letting us hold a fundraiser on Tuesday, January 6th from 5-9 pm. They will donate a portion of all pizza proceeds that night to help our cats. The address is 213 Burlington Road, Bedford, MA. Please come, and bring friends!  
+
 ## About
 
 Whiskers of Hope, Inc. is a non-profit no-kill adoption organization for cats and kittens. We are an all-volunteer 501(c)3 not-for-profit charitable corporation. We operate a no-kill "virtual shelter" with all our cats in the care of foster homes.
