@@ -3,11 +3,9 @@ layout: default
 title: Whiskers of Hope
 ---
 
-## Adopt our cat of the month: Chloe!
+## Adopt our cat of the month: Buffy!
 
-![Chloe](/images/chloe.jpg)
-
-Chloe is a big, beautiful 6-year-old brown tabby with white bib and paws. She's a curious girl who likes to look behind every door and keep an eye on the street from a comfy window. Chloe's owner has become ill and is unable to care for her. She desperately needs a home where she'll be the only cat, and get to hang out with her person. She is not a lap cat, but loves to just be near.
+![Buffy](/images/buffy.jpg)
 
 ## About
 
