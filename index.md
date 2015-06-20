@@ -7,6 +7,10 @@ title: Whiskers of Hope
 
 ![Buffy](/images/buffy.jpg)
 
+Buffy considers herself the queen of her own universe, and she likes to make her own rules. But Buffy is a rascal with irresistible charm and a bungee cord that keeps her coming back for more affection. Her world is anchored on her human's affection.
+
+Buffy is a well-behaved, quiet cat. She does not like other cats, so she should be an only cat. But if you are looking for a feline companion that will own you with all her heart, then Buffy is the cat for you!
+
 ## About
 
 Whiskers of Hope, Inc. is a non-profit no-kill adoption organization for cats and kittens. We are an all-volunteer 501(c)3 not-for-profit charitable corporation. We operate a no-kill "virtual shelter" with all our cats in the care of foster homes.
