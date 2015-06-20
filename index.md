@@ -8,8 +8,11 @@ title: Whiskers of Hope
 ![Buffy](/images/buffy.jpg)
 
 She considers herself the queen in her own universe, and likes to make her own rules. But Buffy is a rascal with irresistible charm and a bungee cord that keeps her coming back for more affection. Her world is anchored on her human’s attention.
+
 What you will never suffer is boredom with Buffy in your life. She will tickle your humor with her playful antics. She does not walk, she runs. She goes everywhere. In your lap, your bed, your dinner if she has a chance. So let’s say, she is a high-energy cat. She needs space and toys and activity to tap her energy.
+
 She is actually pretty well behaved, though. She is not a talker. She has perfect litter box manners and is healthy as a horse as the saying goes. She does not like other cats, and behaves aggressively toward them. So she should be an only cat. She also has an instinctive reflex to grab a moving hand when she is in play mode. So she needs to belong to cat-savvy adults who know how to discourage the habit, probably picked up in kittenhood with humans who were the spoilers.
+
 If you are looking for a feline companion who will own you with all her heart, and give you a chance to prove how much you love your cat, then Buffy is the feline for you!
 
 ## About
