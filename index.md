@@ -62,3 +62,8 @@ Please note that kittens (under 9 months of age) are only adopted in pairs unles
 * FIV+ cats should be spayed/neutered and kept indoors to prevent infection to other cats
 * There is no cure for FIV, but infected cats may live many years symptom-free
 * Regular vet check-ups, a nutritionally balanced diet, and a close watch for symptoms of illness with prompt treatment help to increase the FIV+ cat’s quality and longevity of life
+
+<!---
+The below HTML is a widget to allow donations for the cat Yoshi
+-->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="258" height="338" title="Click Here to donate!" type="application/x-shockwave-flash"><param name="movie" value="//funds.gofundme.com/Widgetflex.swf" /><param name="quality" value="high" /><param name="flashvars" value="page=yd2mkg&template=7" /><param name="wmode" value="transparent" /><embed allowScriptAccess="always" src="//funds.gofundme.com/Widgetflex.swf" quality="high" flashVars="page=yd2mkg&template=7" type="application/x-shockwave-flash" wmode="transparent" width="258" height="338"></embed></object>
