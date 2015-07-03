@@ -11,6 +11,12 @@ Buffy considers herself the queen of her own universe, and she likes to make her
 
 Buffy is a well-behaved, quiet cat. She does not like other cats, so she should be an only cat. But if you are looking for a feline companion that will own you with all her heart, then Buffy is the cat for you!
 
+## Please consider clicking below to donate towards Yoshi's vet bills
+<!---
+The below HTML is a widget to allow donations for the cat Yoshi
+-->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="258" height="338" title="Click Here to donate!" type="application/x-shockwave-flash"><param name="movie" value="//funds.gofundme.com/Widgetflex.swf" /><param name="quality" value="high" /><param name="flashvars" value="page=yd2mkg&template=7" /><param name="wmode" value="transparent" /><embed allowScriptAccess="always" src="//funds.gofundme.com/Widgetflex.swf" quality="high" flashVars="page=yd2mkg&template=7" type="application/x-shockwave-flash" wmode="transparent" width="258" height="338"></embed></object>
+
 ## About
 
 Whiskers of Hope, Inc. is a non-profit no-kill adoption organization for cats and kittens. We are an all-volunteer 501(c)3 not-for-profit charitable corporation. We operate a no-kill "virtual shelter" with all our cats in the care of foster homes.
@@ -63,7 +69,3 @@ Please note that kittens (under 9 months of age) are only adopted in pairs unles
 * There is no cure for FIV, but infected cats may live many years symptom-free
 * Regular vet check-ups, a nutritionally balanced diet, and a close watch for symptoms of illness with prompt treatment help to increase the FIV+ cat’s quality and longevity of life
 
-<!---
-The below HTML is a widget to allow donations for the cat Yoshi
--->
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="258" height="338" title="Click Here to donate!" type="application/x-shockwave-flash"><param name="movie" value="//funds.gofundme.com/Widgetflex.swf" /><param name="quality" value="high" /><param name="flashvars" value="page=yd2mkg&template=7" /><param name="wmode" value="transparent" /><embed allowScriptAccess="always" src="//funds.gofundme.com/Widgetflex.swf" quality="high" flashVars="page=yd2mkg&template=7" type="application/x-shockwave-flash" wmode="transparent" width="258" height="338"></embed></object>
