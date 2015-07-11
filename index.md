@@ -25,6 +25,10 @@ Whiskers of Hope needs your help and is always looking for volunteers that would
 
 We rely on the support of caring individuals to feed and get medical care of our cats. All donations are greatly appreciated and are tax deductible. Donations can be sent to our PO Box.
 
+Check out an introduction to Whiskers of Hope recorded by a local Girl Scout troop:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rEs8Cgfw77I" frameborder="0" allowfullscreen></iframe>
+
 ## Upcoming Events
 
 <iframe style="border-width:0" width="640" height="480" frameborder="0" scrolling="no" src="https://www.google.com/calendar/embed?src=whiskersofhope.org_efphc8b7vtbl7duddn89fc9tq0%40group.calendar.google.com&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=480&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;ctz=America%2FNew_York"></iframe>
