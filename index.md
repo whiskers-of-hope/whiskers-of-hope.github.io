@@ -29,6 +29,21 @@ Check out an introduction to Whiskers of Hope recorded by a local Girl Scout tro
 
 <iframe id="GirlScouts" width="560" height="315" src="https://www.youtube.com/embed/rEs8Cgfw77I" frameborder="0" allowfullscreen></iframe>
 
+## Please Donate
+
+Click the below button to donate. Your donation assists us with feeding and caring for foster cats and kittens as we wait to find them homes.
+
+<!---
+Below 'form' code copied from paypal for donate button
+-->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="QNWQE4PRSZZUL">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
 ## Upcoming Events
 
 <iframe id="UpcomingEvents" style="border-width:0" width="640" height="480" frameborder="0" scrolling="no" src="https://www.google.com/calendar/embed?src=whiskersofhope.org_efphc8b7vtbl7duddn89fc9tq0%40group.calendar.google.com&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=480&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;ctz=America%2FNew_York"></iframe>
