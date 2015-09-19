@@ -3,13 +3,15 @@ layout: default
 title: Whiskers of Hope
 ---
 
-## Adopt our cat of the month: Buffy!
+## Adopt our cat of the month: Roxanne!
 
-![Buffy](/images/buffy.jpg)
+![Roxanne](/images/roxanne.jpg)
 
-Buffy considers herself the queen of her own universe, and she likes to make her own rules. But Buffy is a rascal with irresistible charm and a bungee cord that keeps her coming back for more affection. Her world is anchored on her human's affection.
+Roxanne is a little waif with moxie. She looks delicate and quiet -- until she explodes into play! Her squeaky voice cries for attention, but she does so insistently if ignored. 
 
-Buffy is a well-behaved, quiet cat. She does not like other cats, so she should be an only cat. But if you are looking for a feline companion that will own you with all her heart, then Buffy is the cat for you!
+Roxanne is exceptionally sweet with people and a great lap cat. She utilizes her toys and her scratch pad to their full potential. She loves to play with her family.
+
+Roxanne had been adopted, but unfortunatley needed to be returned due to allergies. Please consider giving this sweet lady another shot at finding a forever home!
 
 ## Update on Yoshi
 
