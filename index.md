@@ -11,11 +11,9 @@ Buffy considers herself the queen of her own universe, and she likes to make her
 
 Buffy is a well-behaved, quiet cat. She does not like other cats, so she should be an only cat. But if you are looking for a feline companion that will own you with all her heart, then Buffy is the cat for you!
 
-## Please consider clicking below to donate towards Yoshi's vet bills
-<!---
-The below HTML is a widget to allow donations for the cat Yoshi
--->
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="258" height="338" title="Click Here to donate!" type="application/x-shockwave-flash"><param name="movie" value="//funds.gofundme.com/Widgetflex.swf" /><param name="quality" value="high" /><param name="flashvars" value="page=yd2mkg&template=7" /><param name="wmode" value="transparent" /><embed allowScriptAccess="always" src="//funds.gofundme.com/Widgetflex.swf" quality="high" flashVars="page=yd2mkg&template=7" type="application/x-shockwave-flash" wmode="transparent" width="258" height="338"></embed></object>
+## Update on Yoshi
+
+Many of you donated to Yoshi's vet bills -- thank you!!! We are happy to report that Yoshi has recovered to the point where he is now an adoptable cat, although he is somewhat shy around people. We are working with him to bring him out of his shell. Please contact us if you are interested in Yoshi.
 
 ## About
 
@@ -60,7 +58,7 @@ Our adoption fees depend on the age of the cat, and we also offer a discount if 
 
 ## The Adoption Process
 
-Adopting a cat will enrich your life, but it's a lifelong commitment that deserves careful consideration. We require a completed adoption application to start the adoption process. Adoption applications can be submitted on paper in person, or online. We will require a couple of days to process your application and confirm your references.
+Adopting a cat will enrich your life, but it's a lifelong commitment that deserves careful consideration. We require a completed to start the adoption process. Adoption applications can be submitted on paper in person, or online. We will require a couple of days to process your application and confirm your references.
 
 When your application is approved you will meet with the Whiskers of Hope, Inc. adoption coordinator and visit with the cat or kitten a couple of times until you both feel comfortable together. In some cases a home visit may also be required.
 
