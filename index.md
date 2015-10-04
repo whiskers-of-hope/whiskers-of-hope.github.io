@@ -5,7 +5,7 @@ title: Whiskers of Hope
 
 ## Adopt our cat of the month: Yoshi!
 
-![Yoshi](/images/yoshi.jpg)
+![Yoshi](/images/yoshi.jpeg)
 
 Many of you donated to Yoshi's vet bills -- thank you!!! We are happy to report that Yoshi has recovered to the point where he is now an adoptable cat, so we have made him our cat of the month!
 
