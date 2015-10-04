@@ -3,19 +3,15 @@ layout: default
 title: Whiskers of Hope
 ---
 
-## Adopt our cat of the month: Roxanne!
+## Adopt our cat of the month: Yoshi!
 
-![Roxanne](/images/roxanne.jpg)
+![Yoshi](/images/yoshi.jpg)
 
-Roxanne is a little waif with moxie. She looks delicate and quiet -- until she explodes into play! Her squeaky voice cries for attention, but she does so insistently if ignored. 
+Many of you donated to Yoshi's vet bills -- thank you!!! We are happy to report that Yoshi has recovered to the point where he is now an adoptable cat, so we have made him our cat of the month!
 
-Roxanne is exceptionally sweet with people and a great lap cat. She utilizes her toys and her scratch pad to their full potential. She loves to play with her family.
+During his recovery, Yoshi was shy around people. But he has gradually come around and now he is the friendly companion that we knew he would be. 
 
-Roxanne had been adopted, but unfortunatley needed to be returned due to allergies. Please consider giving this sweet lady another shot at finding a forever home!
-
-## Update on Yoshi
-
-Many of you donated to Yoshi's vet bills -- thank you!!! We are happy to report that Yoshi has recovered to the point where he is now an adoptable cat, although he is somewhat shy around people. We are working with him to bring him out of his shell. Please contact us if you are interested in Yoshi.
+Yoshi would prefer a home without pets or young people, so please keep that in mind. But if you think you are the right person to give Yoshi a home and complete his miraculous comeback, please let us know!
 
 ## About
 
