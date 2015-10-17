@@ -39,6 +39,11 @@ Below 'form' code copied from paypal for donate button
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+## Amazon Smile Purchases to Benefit Whiskers of Hope
+
+You can also help whiskers by making your Amazon purchases through our Amazon Smile program. Just click the below link, and your Amazon purchases will result in a donation to Whiskers of Hope:
+
+[Amazon Smile](https://smile.amazon.com/ch/20-1840185)
 
 ## Upcoming Events
 
