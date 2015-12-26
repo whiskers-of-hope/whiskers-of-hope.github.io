@@ -3,15 +3,13 @@ layout: default
 title: Whiskers of Hope
 ---
 
-## Adopt our cat of the month: Yoshi!
+## Adopt our cat of the month: Roxanne!
 
-![Yoshi](/images/yoshi.jpeg)
+![Roxanne](/images/roxanne.jpeg)
 
-Many of you donated to Yoshi's vet bills -- thank you!!! We are happy to report that Yoshi has recovered to the point where he is now an adoptable cat, so we have made him our cat of the month!
+Roxanne is an exceptionally sweet, great lap cat. She can be naughty too, occasionally jumping up the back of your chair to startle you to attention, or even clawing at the back side. But she does that only for your attention, and has generally excellent house manners. She utilizes her toys to their full potential, as well as her scratch pads. Best of all, she loves interactive play with her family.
 
-During his recovery, Yoshi was shy around people. But he has gradually come around and now he is the friendly companion that we knew he would be. 
-
-Yoshi would prefer a home without pets or young people, so please keep that in mind. But if you think you are the right person to give Yoshi a home and complete his miraculous comeback, please let us know!
+Roxanne is a young adult spayed female, one to two years old. Her coat is medium length, and very unlike the full coat of a Maine Coon. Her build is also more delicate, so she is not a Maine Coon/mix.
 
 ## About
 
