@@ -5,7 +5,7 @@ title: Whiskers of Hope
 
 ## Adopt our cat of the month: Roxanne!
 
-![Roxanne](/images/roxanne.jpeg)
+![Roxanne](/images/roxanne.jpg)
 
 Roxanne is an exceptionally sweet, great lap cat. She can be naughty too, occasionally jumping up the back of your chair to startle you to attention, or even clawing at the back side. But she does that only for your attention, and has generally excellent house manners. She utilizes her toys to their full potential, as well as her scratch pads. Best of all, she loves interactive play with her family.
 
