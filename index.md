@@ -3,13 +3,11 @@ layout: default
 title: Whiskers of Hope
 ---
 
-## Adopt our cat of the month: Roxanne!
+## Adopt our cat of the month: Konga!
 
-![Roxanne](/images/roxanne.jpg)
+![Konga](/images/konga.jpg)
 
-Roxanne is an exceptionally sweet, great lap cat. She can be naughty too, occasionally jumping up the back of your chair to startle you to attention, or even clawing at the back side. But she does that only for your attention, and has generally excellent house manners. She utilizes her toys to their full potential, as well as her scratch pads. Best of all, she loves interactive play with her family.
-
-Roxanne is a young adult spayed female, one to two years old. Her coat is medium length, and very unlike the full coat of a Maine Coon. Her build is also more delicate, so she is not a Maine Coon/mix.
+For reasons that I will never understand, someone named me Konga. Personally I prefer Kara or Karma or just about anything else. Oh well. Anyway, I spent years living as a stray kitty before I was rescued by someone who saw my potential as a loving companion to a worthy human of my very own. Since I am a mature female with a penchant for warmth and affection, I suppose my dream come true would be with a human of similar feelings, preferably unencumbered by another cat. Does this sound like you?
 
 ## About
 
@@ -53,8 +51,8 @@ All cats and kittens for adoption have been examined by a veterinarian, spayed o
 
 Our adoption fees depend on the age of the cat, and we also offer a discount if you adopt two cats at once:
 
-* Kittens (up to 6 months) $150, 2 for $250
-* Cats (6 months- 6 years) $125, 2 for $200
+* Kittens (up to 6 months) $150
+* Cats (6 months- 6 years) $125
 * Older cats (6+ years) $100
 
 ## The Adoption Process
