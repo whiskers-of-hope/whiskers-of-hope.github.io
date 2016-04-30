@@ -49,7 +49,7 @@ You can also help whiskers by making your Amazon purchases through our Amazon Sm
 
 All cats and kittens for adoption have been examined by a veterinarian, spayed or neutered, vaccinated against rabies and distemper (FVRCP), dewormed, treated to prevent fleas and mites, and tested for feline leukemia and feline immunodeficiency virus (FeLK/FIV).
 
-Our adoption fees depend on the age of the cat, and we also offer a discount if you adopt two cats at once:
+Our adoption fees depend on the age of the cat:
 
 * Kittens (up to 6 months) $150
 * Cats (6 months- 6 years) $125
