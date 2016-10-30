@@ -3,11 +3,14 @@ layout: default
 title: Whiskers of Hope
 ---
 
+<!--- COMMENT OUT CAT OF THE MONTH
 ## Adopt our cat of the month: Konga!
 
 ![Konga](/images/konga.jpg)
 
 For reasons that I will never understand, someone named me Konga. Personally I prefer Kara or Karma or just about anything else. Oh well. Anyway, I spent years living as a stray kitty before I was rescued by someone who saw my potential as a loving companion to a worthy human of my very own. Since I am a mature female with a penchant for warmth and affection, I suppose my dream come true would be with a human of similar feelings, preferably unencumbered by another cat. Does this sound like you?
+
+-->
 
 ## About
 
@@ -22,6 +25,8 @@ Check out an introduction to Whiskers of Hope recorded by a local Girl Scout tro
 <iframe id="GirlScouts" width="560" height="315" src="https://www.youtube.com/embed/rEs8Cgfw77I" frameborder="0" allowfullscreen></iframe>
 
 ## Please Donate
+
+Donations of food, bedding, or other items can be dropped off at the Unleashed in Arlington Heights, at 1406 Mass Ave.
 
 Click the below button to donate. Your donation assists us with feeding and caring for foster cats and kittens as we wait to find them homes.
 
@@ -41,9 +46,13 @@ You can also help whiskers by making your Amazon purchases through our Amazon Sm
 
 [Amazon Smile](https://smile.amazon.com/ch/20-1840185)
 
+<!--- COMMENT OUT CALENDAR
+
 ## Upcoming Events
 
 <iframe id="UpcomingEvents" style="border-width:0" width="640" height="480" frameborder="0" scrolling="no" src="https://www.google.com/calendar/embed?src=whiskersofhope.org_efphc8b7vtbl7duddn89fc9tq0%40group.calendar.google.com&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=480&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;ctz=America%2FNew_York"></iframe>
+
+-->
 
 ## Adopt a Cat or Kitten
 
