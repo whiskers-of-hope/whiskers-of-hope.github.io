@@ -24,6 +24,16 @@ Check out an introduction to Whiskers of Hope recorded by a local Girl Scout tro
 
 <iframe id="GirlScouts" width="560" height="315" src="https://www.youtube.com/embed/rEs8Cgfw77I" frameborder="0" allowfullscreen></iframe>
 
+## Upcoming Events
+
+Every third Saturday of each month, we will be showing adoptable cats at:
+
+New England Nurseries
+216 Concord Rd
+Bedford, MA
+
+Upcoming Dates: March 18
+
 ## Please Donate
 
 Donations of food, bedding, or other items can be dropped off at the Unleashed in Arlington Heights, at 1406 Mass Ave.
