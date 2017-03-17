@@ -70,8 +70,8 @@ All cats and kittens for adoption have been examined by a veterinarian, spayed o
 
 Our adoption fees depend on the age of the cat:
 
-* Kittens (up to 6 months) $150
-* Cats (6 months- 6 years) $125
+* Kittens (up to 6 months) $175
+* Cats (7 months- 6 years) $125
 * Older cats (6+ years) $100
 
 ## The Adoption Process
