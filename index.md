@@ -32,8 +32,6 @@ New England Nurseries
 216 Concord Rd
 Bedford, MA
 
-Upcoming Dates: March 18
-
 ## Please Donate
 
 Donations of food, bedding, or other items can be dropped off at the Unleashed in Arlington Heights, at 1406 Mass Ave.
