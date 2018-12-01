@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Whiskers of Hope
 ---
@@ -16,7 +16,7 @@ For reasons that I will never understand, someone named me Konga. Personally I p
 
 Whiskers of Hope, Inc. is a non-profit no-kill adoption organization for cats and kittens. We are an all-volunteer 501(c)3 not-for-profit charitable corporation. We operate a no-kill "virtual shelter" with all our cats in the care of foster homes.
 
-Whiskers of Hope needs your help and is always looking for volunteers that would like to foster homeless cats. Fostering can be a very rewarding experience! For more information contact our Adoption Coodinator at: 781.648.4095, or e-mail whiskers@whiskersofhope.org.
+Whiskers of Hope needs your help and is always looking for volunteers that would like to foster homeless cats. Fostering can be a very rewarding experience! For more information contact our Adoption Coodinator at: 781.648.4095, or e-mail whiskersofhope@gmail.com.
 
 We rely on the support of caring individuals to feed and get medical care of our cats. All donations are greatly appreciated and are tax deductible. Donations can be sent to our PO Box.
 
